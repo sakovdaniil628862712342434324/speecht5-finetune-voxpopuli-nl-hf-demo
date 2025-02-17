@@ -1,0 +1,8 @@
+transformers
+datasets
+soundfile
+speechbrain
+accelerate
+torch
+matplotlib
+huggingface_hub
